@@ -1,3 +1,9 @@
+## 3.2.3
+* Updated Lints.
+* Removed support for opening apk files, 
+* folder name corrected, ` plaform -> platform`.
+* package version updated to `3.2.3`
+* Gradle updated to `gradle-7.4.2`
 ## 3.2.2
 * `FFi` updated to v2.
 * android migrated from `v1` to `v2`, 
